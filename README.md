@@ -31,7 +31,7 @@
 
 Get pyrogram (p)  `SESSION` from here:
 
-[SESSION ALMAK ICIN TIKLA](https://t.me/StringSessionGenRobot)
+[SESSION ALMAK ICIN TIKLA]([https://t.me/StringSessionGenRobot](https://replit.com/@dashezup/generate-pyrogram-session-string))
 
 
 ### Grup için komutlar :
