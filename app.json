@@ -1,6 +1,6 @@
 {
   "name": "AtabeyTag-Music",
-  "logo": "https://telegra.ph/Atabey-10-24-2",
+  "logo": "https://telegra.ph/file/3e7feb30cf35ba68590d6.png",
   "description": "Bu bot Gruplanizda Rahatlikla Muzik dinlemeniz icin yapildi Sahibi Atabey27.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/Atabey27/AtabeyTag-Music",
@@ -36,14 +36,14 @@
       "value": ""
     },
     "SUPPORT_GROUP": {
-      "description": "bURAYA SUPPORT GRUBUNUZU GİRİN]",
+      "description": "BURAYA SUPPORT GRUBUNUZU GİRİN",
       "required": false,
-      "value": "LoungeMusicsupport"
+      "value": "MuzikDiyarixx"
     },
     "PROJECT_NAME": {
-      "description": "pROJE ISMINIZI GIRIN.",
+      "description": "PROJE ISMINIZI GIRIN.",
       "required": false,
-      "value": "LoungeMusic v1"
+      "value": "AtabeyTag-Music v1"
     },
     "ASSISTANT_NAME": {
       "description": "Asistanınızın Kullanıcı adını gırın @ sız.",
@@ -57,12 +57,12 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": " https://telegra.ph/file/03f1c9ec4513c3a52bc22.jpg"
+      "value": " https://telegra.ph/file/3e7feb30cf35ba68590d6.png"
     },     
     "UPDATES_CHANNEL": {
       "description": "Güncelleme kanalını secin].",
       "required": false,
-      "value": "Loungeupdates"
+      "value": ""
     },    
     "API_ID": {
       "description": "Api ıd nızı burdan alın my.telegram.org/apps",
