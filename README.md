@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/Atabey-10-24-2">
+  <img src="https://telegra.ph/file/3e7feb30cf35ba68590d6.png">
 </p>
 
 <h2> Özellikler 🔥 </h2>
